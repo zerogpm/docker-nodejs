@@ -1,2 +1,2 @@
-GET http://localhost HTTP/1.1
-content-type: application/json
+GET http://localhost/message HTTP/1.1
+content-type: text/html
